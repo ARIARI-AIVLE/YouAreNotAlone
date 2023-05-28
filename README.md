@@ -17,6 +17,7 @@
 <img src='https://github.com/ARIARI-AIVLE/YouAreNotAlone/assets/55778040/779ea4cd-ff5b-4e65-b96f-3699c01643f5'>
 
 <br>
+<br>
 
 ## **📝 프로젝트 세부 내용**
 ### [1차 예방]
